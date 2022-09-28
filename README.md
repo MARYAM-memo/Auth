@@ -1,7 +1,7 @@
 # Auth-[Login, SignUp]
 
 A new Flutter project. with some techs...
-....was used....  Provider, Animation.
+....was used....  Provider, Animation, GoogleAuthentication.
 
 ## Photos
 
