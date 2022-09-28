@@ -8,8 +8,6 @@ A new Flutter project. with some techs...
 ![Screenshot_1663432970](https://user-images.githubusercontent.com/93387228/190875095-ebd70e3e-11fb-44e3-9f0a-af940783c6d2.png)
 ![Screenshot_1663432975](https://user-images.githubusercontent.com/93387228/190875097-f635abe0-b14d-41c6-887a-adfb6b335779.png)
 ![Screenshot_1663432977](https://user-images.githubusercontent.com/93387228/190875098-3984d8cd-1c07-4fdc-867d-38fa6c200f67.png)
-![Screenshot_1663432984](https://user-images.githubusercontent.com/93387228/190875101-f47feea1-e45b-4042-af8d-4a2c2261dd91.png)
-![Screenshot_1663432986](https://user-images.githubusercontent.com/93387228/190875106-fb112cd5-0b04-435f-8ff5-ff049bd2be98.png)
 ![Screenshot_1663432991](https://user-images.githubusercontent.com/93387228/190875108-cee51737-5049-426f-abe9-5e2e81204453.png)
 ![Screenshot_1663432993](https://user-images.githubusercontent.com/93387228/190875110-53e76a5c-fdbb-49cb-a5ea-ed8c7380875c.png)
 ![Screenshot_1663433003](https://user-images.githubusercontent.com/93387228/190875113-aaa5acee-4f15-44f6-b48c-9bf946ea9234.png)
