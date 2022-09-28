@@ -1,6 +1,7 @@
 buildscript {
     ext.kotlin_version = '1.6.10'
     repositories {
+        // Make sure that you have the following two repositories
         google()
         mavenCentral()
     }
@@ -8,6 +9,8 @@ buildscript {
     dependencies {
         classpath 'com.android.tools.build:gradle:7.1.2'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        // Add the dependency for the Google services Gradle plugin
+        classpath 'com.google.gms:google-services:4.3.13'
     }
 }
 

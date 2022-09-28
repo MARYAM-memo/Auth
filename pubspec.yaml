@@ -8,8 +8,11 @@ environment:
   sdk: '>=2.18.0 <3.0.0'
 dependencies:
   cupertino_icons: ^1.0.2
+  firebase_auth: ^3.10.0
+  firebase_core: ^1.23.0
   flutter:
     sdk: flutter
+  google_sign_in: ^5.4.2
   provider: ^6.0.3
 
 dev_dependencies:
